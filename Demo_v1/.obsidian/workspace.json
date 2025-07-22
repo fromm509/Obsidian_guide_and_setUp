@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "9ab9906860b8ec64",
+    "type": "split",
+    "children": [
+      {
+        "id": "21e7cc81947f0a70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f71fa18b23af5f9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Гайд или зачем всё это...md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Гайд или зачем всё это.."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29316c6b37ba4be8",
+    "type": "split",
+    "children": [
+      {
+        "id": "06a7156940fc2f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e7008ab43b4d6ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "285972e1d9bf40ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "ae85ea9851ecf46f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "d63305c7771e014c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d0a6c5b1bad9b4",
+        "type": "tabs",
+        "dimension": 49.32692307692307,
+        "children": [
+          {
+            "id": "db2a96cbc3b790b3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Гайд или зачем всё это...md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#obsidian_guide  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084212
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.599950884086444,
+                  "repelStrength": 8.72986247544204,
+                  "linkStrength": 1,
+                  "linkDistance": 126,
+                  "scale": 1.0000000117176253,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф Гайд или зачем всё это.."
+            }
+          },
+          {
+            "id": "94ddcb65daa8f031",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e66e2c2c5470a880",
+        "type": "tabs",
+        "dimension": 50.67307692307693,
+        "children": [
+          {
+            "id": "522c6697c1752137",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Гайд или зачем всё это...md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Гайд или зачем всё это.."
+            }
+          },
+          {
+            "id": "6d522e8768ba3fc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Гайд или зачем всё это...md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Гайд или зачем всё это.."
+            }
+          },
+          {
+            "id": "1290d4edf3738d9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "c88b77ace1a2520d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Гайд или зачем всё это...md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Гайд или зачем всё это.."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7f71fa18b23af5f9",
+  "lastOpenFiles": [
+    "templates/DataView queries.md",
+    "Гайд или зачем всё это...md",
+    "files/Pasted image 20250722134814.png",
+    "diary/20250720.md",
+    "Некоторые бест-практисы.md",
+    "files/Pasted image 20250722134155.png",
+    "Практика Dataview.md",
+    "Welcome Home.canvas",
+    "Горячие клавиши.md",
+    "Дневник.md",
+    "Перфекционизм.md",
+    "Предустановленные плагины.md",
+    "Спонтанность.md",
+    "Структура хранилища.md",
+    "Тэги.md",
+    "Холст.md",
+    "files/Pasted image 20250722122749.png",
+    "files/Pasted image 20250722024503.png",
+    "files/Pasted image 20250722023536.png",
+    "files/Pasted image 20250722021224.png",
+    "files/Pasted image 20250722021219.png",
+    "files/Pasted image 20250722020942.png",
+    "Сниппеты dataview.md",
+    "Список полезных команд.md",
+    "Философия Obsidian.md",
+    "files/Pasted image 20250721232518.png",
+    "files/Pasted image 20250721191011.png",
+    "templates/Base Template.md",
+    "diary/20250715.md",
+    "diary/20250714.md",
+    "diary/20250410.md",
+    "diary/20250529.md",
+    "diary/20250508.md",
+    "eng/Demo_v1.md",
+    "eng",
+    "ru/Demo_v1.md",
+    "ru",
+    "README.md",
+    "files/~$скаржевская_Галина_Вадимовна_SA_ (1).docx",
+    "files/Ласкаржевская_Галина_Вадимовна_SA_ (1).docx",
+    "files",
+    "diary",
+    "templates"
+  ]
+}

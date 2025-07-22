@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"7a5bd12b9d95179e","type":"text","text":"**Открытые задачи:**\n```dataview\nTASK\nWHERE !completed\n```","x":-440,"y":-600,"width":880,"height":260},
+		{"id":"08f457f1a7f65a59","type":"text","text":"**Дневники:**\n```dataview\nLIST\nFROM \"diary\"\n```","x":-670,"y":-600,"width":190,"height":260},
+		{"id":"da2ca2fb5eaa09fe","type":"text","text":"```dataview\nTABLE\nidea as \"Идея\"\nWHERE idea\nSORT file.mday DESC\n```","x":-670,"y":-280,"width":1110,"height":320},
+		{"id":"b8f7370ee47e1eea","x":-670,"y":-1280,"width":1110,"height":560,"type":"text","text":"![[Гайд или зачем всё это..]]"},
+		{"id":"d21a1306e758c299","x":-670,"y":-1440,"width":330,"height":60,"type":"text","text":"Отображение [[Гайд или зачем всё это..]]"}
+	],
+	"edges":[
+		{"id":"cd96fd1ef5bdab46","fromNode":"d21a1306e758c299","fromSide":"right","toNode":"b8f7370ee47e1eea","toSide":"top"}
+	]
+}
