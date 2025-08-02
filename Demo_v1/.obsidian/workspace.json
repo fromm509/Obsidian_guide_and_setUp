@@ -76,8 +76,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
                   "repelStrength": 8.72986247544204,
                   "linkStrength": 1,
                   "linkDistance": 126,
-                  "scale": 1.0000000117176253,
+                  "scale": 0.7132754709803372,
                   "close": true
                 }
               },
@@ -222,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 592.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,9 +236,13 @@
   },
   "active": "7f71fa18b23af5f9",
   "lastOpenFiles": [
+    "Предустановленные плагины.md",
+    "Гайд или зачем всё это...md",
+    "Горячие клавиши.md",
+    "diary/20250715.md",
+    "Спонтанность.md",
     "Некоторые бест-практисы.md",
     "Тэги.md",
-    "Гайд или зачем всё это...md",
     "files/Pasted image 20250713185855.png",
     "files/Pasted image 20250714013210.png",
     "files/Pasted image 20250714013703.png",
@@ -252,16 +255,12 @@
     "files/Pasted image 20250721160107.png",
     "Welcome Home.canvas",
     "Практика Dataview.md",
-    "Предустановленные плагины.md",
-    "Горячие клавиши.md",
     "Холст.md",
-    "diary/20250715.md",
     "Структура хранилища.md",
     "templates/DataView queries.md",
     "diary/20250720.md",
     "Дневник.md",
     "Перфекционизм.md",
-    "Спонтанность.md",
     "Сниппеты dataview.md",
     "Список полезных команд.md",
     "Философия Obsidian.md",
