@@ -217,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -236,9 +236,13 @@
   },
   "active": "7f71fa18b23af5f9",
   "lastOpenFiles": [
-    "diary/20250720.md",
-    "Гайд или зачем всё это...md",
+    "Практика Dataview.md",
+    "Холст.md",
     "Некоторые бест-практисы.md",
+    "Welcome Home.canvas",
+    "Гайд или зачем всё это...md",
+    "diary/20250720.md",
+    "Перфекционизм.md",
     "diary/20250715.md",
     "Спонтанность.md",
     "Предустановленные плагины.md",
@@ -254,13 +258,9 @@
     "files/Pasted image 20250721151256.png",
     "files/Pasted image 20250721160051.png",
     "files/Pasted image 20250721160107.png",
-    "Welcome Home.canvas",
-    "Практика Dataview.md",
-    "Холст.md",
     "Структура хранилища.md",
     "templates/DataView queries.md",
     "Дневник.md",
-    "Перфекционизм.md",
     "Сниппеты dataview.md",
     "Список полезных команд.md",
     "Философия Obsidian.md",
